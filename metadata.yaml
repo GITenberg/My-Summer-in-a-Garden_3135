@@ -1,5 +1,8 @@
 _repo: My-Summer-in-a-Garden_3135
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Warner, Charles Dudley
@@ -11,6 +14,8 @@ creator:
 description: First published in 1871, a new edition of a nineteenth-century gardening
   classic shares the author's love of nature and his passion for gardening in a volume
   that blends humor and philosophy with personal observations on working with plants.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3135#My-Summer-in-a-Garden
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2004-10-10'
 gutenberg_type: Text
